@@ -1,0 +1,2 @@
+#print output
+print("hi!")
